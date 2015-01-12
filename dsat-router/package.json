@@ -1,0 +1,11 @@
+{
+  "name": "dsat-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "author": "Dominik Strasser",
+  "license": "ISC"
+}
